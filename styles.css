@@ -1,0 +1,53 @@
+body{
+    background-color:rgb(223, 118, 131);
+    text-align: center;
+    margin: auto;
+}
+
+h1{
+    color: rgb(221, 27, 53);
+}
+
+input{
+    padding: 0.3rem;
+    background-color: rgb(179, 28, 98);
+    color: wheat;
+}
+
+
+
+.in-lable{
+    display: block;
+    text-align: center; 
+    font-size: larger;
+  margin: 1rem;
+  font-weight: 600;
+  padding: 1rem 1rem 1rem 1rem;
+  color:rgb(75, 7, 49);
+
+
+}
+
+button{
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+    background-color: rgb(160, 26, 82);
+    color: pink;
+}
+
+#output-box{
+    color: rgb(124, 14, 32);
+    font-size: larger;
+    font-weight: 800;
+}
+
+
+    
+
+
+
+
+
+
